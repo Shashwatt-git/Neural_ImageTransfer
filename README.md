@@ -14,8 +14,8 @@ Ensure you have Python and PyTorch installed. Then, clone the repository and ins
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/msg-net.git
-cd msg-net
+git clone https://github.com/shashwatt-git/Neural_ImageTransfer.git
+cd Neural_ImageTransfer
 
 # Install dependencies
 pip install -r requirements.txt
@@ -57,9 +57,5 @@ python train.py --dataset /path/to/dataset --epochs 10 --batch_size 16
 - Implement **video style transfer**.
 - Improve generalization across **diverse artistic styles**.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-For any issues or questions, feel free to raise an issue or reach out at `your.email@example.com`.
 
